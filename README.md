@@ -142,3 +142,5 @@ distribution, or at [the Free Software Foundation][10].
 
 [9]: https://github.com/RsyncProject/rsync/blob/master/COPYING
 [10]: https://www.fsf.org/licenses/gpl.html
+
+[License](https://github.com/AriesTriputranto99/Open-SSL-?tab=MIT-1-ov-file)
